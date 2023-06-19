@@ -1,0 +1,43 @@
+    <section id="videos">
+        <h1>Videos</h1>
+        <div class="line"></div>
+        <br>
+        <iframe width="560" height="315"
+src="https://www.youtube.com/embed/BEOqkHplepg" title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <br>
+        <br>
+        <iframe width="560" height="315"
+src="https://www.youtube.com/embed/UdwZ3fcryms" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section>
+------------------------------------------------------------------------------------------------------
+    </section>
+    <section id="work">
+        <h1>TRABAJO</h1>
+        <div class="line"></div>
+        <iframe width="900" height="1000"
+src="https://es.wikipedia.org/wiki/Tim_Berners-Lee#Desarrollo_de_su_carrera"
+            frameborder="0"></iframe>
+    </section>
+</body>
+-----------------------------------------------------------------------------------------------------------
+    <section id="writings">
+        <h1>TEXTOS</h1>
+        <div class="line"></div>
+        <a href="https://www.cybercenter.cl/blog/tim-berners-lee-30-anos-worldwide-web.html"
+target="_blank">A 30 años de la World Wide Web, ¿Qué es lo que sigue ahora?</a>
+<br>
+<a href="https://www.elmundo.es/baleares/2019/11/20/5dd514b421efa00d088b45d3.html" target="_blank">Tim
+Berners-Lee: Así revolucionó el mundo con su World Wide Web</a>
+</section>
+---------------------------------------------------------------------------------------------------------------
+<li class="links"><a href="#welcome">INICIO</a></li>
+<li class="links"><a href="#videos">VIDEOS</a></li>
+<li class="links"><a href="#work">TRABAJO</a></li>
+<li class="links"><a href="#writings">TEXTOS</a></li>
+<li class="links"><a href="#contact">CONTACTO</a></li>
+
+
